@@ -1,0 +1,22 @@
+{
+    "albums": [
+        {
+            "Album Title": "Abbey Road",
+            "Artist": "The Beatles",
+            "Year": "1969",
+            "Tracks": ["Come Together", "Something", "Maxwell's Silver Hammer", "Oh! Darling", "Octopus's Garden"]
+        },
+        {
+            "Album Title": "Thriller",
+            "Artist": "Michael Jackson",
+            "Year": "1982",
+            "Tracks": ["Wanna Be Startin' Somethin'", "Baby Be Mine", "The Girl Is Mine", "Thriller", "Beat It"]
+        },
+        {
+            "Album Title": "Back in Black",
+            "Artist": "AC/DC",
+            "Year": "1980",
+            "Tracks": ["Hells Bells", "Shoot to Thrill", "What Do You Do for Money Honey", "Givin the Dog a Bone", "Let Me Put My Love into You"]
+        }
+    ]
+}
